@@ -1,0 +1,223 @@
+.title{
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.parrafo1{
+    text-align: center;
+}
+
+body{
+    background-color: bisque;
+}
+
+.estados{
+    display: block;
+    height: 2em;
+    width: 10em;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.botonestado{
+    display: block;
+    height: 2em;
+    width: 10em;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.divaguascalientes{
+    display: none;
+}
+
+.selectagua{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+
+.botonaguasacalientes{
+    display: block;
+    height: 2em;
+    width: 10em;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.aguasjornis{
+    display: none;
+}
+
+.imagenaguas{
+    display: none;
+}
+
+.tamano{
+    max-width: 350px;
+    max-height: 350px;
+}
+
+.imagenelllano{
+    display: none;
+}
+
+.imagenjesus{
+    display: none;
+}
+
+.sanromo{
+    display: none;
+}
+
+.tepezala{
+    display: none;
+}
+
+.bajacalifornia{
+    display: none;
+}
+
+.imagenensenada{
+    display:none;
+}
+
+.botonbaja{
+    display: block;
+    height: 2em;
+    width: 10em;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.elegirbaja{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.imagenesmexicali{
+    display: none;
+}
+
+.rosarito{
+    display: none;
+}
+
+.tecate{
+    display: none;
+}
+
+.tijuana{
+    display: none;
+}
+
+.estadobajasur{
+    display: none;
+}
+
+.elegirbajasur{
+    display: block;
+    height: 2em;
+    width: 8em;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+}
+
+.botonbajasur{
+    display: block;
+    height: 2em;
+    width: 8em;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.comondu{
+    display: none;
+}
+
+.lapaz{
+    display: none;
+}
+
+.loreto{
+    display: none;
+}
+
+.cabos{
+    display: none;
+}
+
+.mulege{
+    display: none;
+}
+
+.divcampeche{
+    display: none;
+}
+
+.elegircampeche{
+    display: block;
+    height: 2em;
+    width: 8em;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+}
+
+.botoncampeche{
+    display: block;
+    height: 2em;
+    width: 8em;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.calkini{
+    display: none;
+}
+
+.campeche2{
+    display: none;
+}
+
+.candelaria{
+    display: none;
+}
+
+.carmen{
+    display: none;
+}
+
+.tenabo{
+    display: none;
+}
+
+.divcoahuila{
+    display: none;
+}
+
+.elegircoahuila{
+    display: block;
+    height: 2em;
+    width: 8em;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+}
+
+.botoncoahuila{
+    display: block;
+    height: 2em;
+    width: 8em;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.hidden{
+    display: none;
+}
+
+
